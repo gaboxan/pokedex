@@ -1,0 +1,18 @@
+.header{
+    display: grid;
+    position: fixed;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+    place-items: center;
+    background: rgb(173,171,204);
+    background: linear-gradient(90deg, rgba(173,171,204,1) 0%, rgba(164,208,205,1) 4%, rgba(80,144,157,1) 93%);}
+.input {
+    background-color: rgba(121, 121, 121, 0.267);
+    padding: 10px 10px;
+    border-radius: 5px;
+    margin: 10px 10px;
+    border: none;
+    width: 80vw;
+  }

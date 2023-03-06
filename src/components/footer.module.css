@@ -1,0 +1,33 @@
+.footer {
+    padding: 10px;
+    background: rgb(173,171,204);
+    background: linear-gradient(90deg, rgba(173,171,204,1) 0%, rgba(164,208,205,1) 4%, rgba(80,144,157,1) 93%);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    height: 10%;
+  }
+  
+  .footerLink {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    color: #292929;
+    margin: 10px 0;
+    font-size: 12px;
+  }
+  
+  .footerIcon {
+    width: 35px;
+    margin: -10px 0;
+    
+  }
+  .textIcon{
+    margin: 10px;
+  }
+
+  

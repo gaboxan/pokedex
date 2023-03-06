@@ -1,0 +1,194 @@
+.pokemon {
+    height: 85vh;
+  }
+  
+  .pokeballButton {
+    border: none;
+    cursor: pointer;
+    outline: none;
+    display: flex;
+    align-items: center;
+    background: none;
+    padding: 50px 50px 0 50px;
+   
+  }
+  
+  .pokeballImg {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+  }
+  
+  .pokemonInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px 0;
+  }
+  
+  .pokemonInfoImg {
+    width: 100px;
+    margin: 20px 0;
+  }
+  
+  .pokemonTitle {
+    margin: 50px 0;
+    font-size: 2em;
+    font-weight: bold;
+  }
+  .poison{
+    background-color: rgb(175, 17, 214);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .grass{
+    background-color: rgb(17, 214, 76);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .fire{
+    background-color: rgb(214, 17, 17);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .bug{
+    background-color: rgb(145, 214, 17);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .ice{
+    background-color: rgb(58, 155, 235);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .water{
+    background-color: rgb(44, 31, 228);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .rock{
+    background-color: rgb(214, 17, 17);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .normal{
+    background-color: rgb(139, 133, 133);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .flying{
+    background-color: rgb(123, 221, 228);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .ground{
+    background-color: rgb(228, 128, 14);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .fairy{
+    background-color: rgb(214, 17, 17);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .steel{
+    background-color: rgb(105, 102, 102);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .dark{
+    background-color: rgb(41, 34, 34);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .fighting{
+    background-color: rgb(182, 55, 55);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .dragon{
+    background: rgb(173,171,204);
+    background: linear-gradient(90deg, rgba(173,171,204,1) 0%, rgba(65,116,113,1) 39%, rgba(5,112,134,1) 78%);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .ghost{
+    background: rgb(52, 50, 85);
+    background: linear-gradient(90deg, rgba(173,171,204,1) 0%, rgba(65,116,113,1) 39%, rgba(5,112,134,1) 78%);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
+  .electric{
+    background: rgb(218, 255, 8);
+    background: linear-gradient(90deg, rgba(173,171,204,1) 0%, rgba(65,116,113,1) 39%, rgba(5,112,134,1) 78%);
+    border-radius: 5px;
+    padding: 1px;
+    margin: auto;
+    text-align: center;
+    border-color: black;
+    margin-right: 2px;
+  }
